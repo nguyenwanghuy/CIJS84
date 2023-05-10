@@ -44,3 +44,4 @@ const { d: day, m, y = 2023 } = date;
 console.log(day);
 // console.log(m);
 // console.log(y);
+
