@@ -15,10 +15,10 @@
 
 // Thực hành
 // bài 1
-// console.log(getNextYear())
 // const arr = ['a','b','c','d','e','f']
 // const newArr = arr.reverse();
-// newArr.join('');
+// const text = newArr.join("");
+// console.log(text)
 
 // bài 2
 // function unique(arr) {

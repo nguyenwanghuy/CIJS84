@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 5px;
+}
+body {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.search {
+    font-size: 20px;
+    border: none;
+    box-shadow: 0 3px gray;
+}
+input:focus {
+    outline: none;
+ }
+.checkRadio {   
+    margin-top: 10px;
+}
+
