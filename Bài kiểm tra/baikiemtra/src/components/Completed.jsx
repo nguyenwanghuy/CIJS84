@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import {  Space, Checkbox } from 'antd';
  const Completed = (props) => {
     const {todoList,handleTodo} = props
